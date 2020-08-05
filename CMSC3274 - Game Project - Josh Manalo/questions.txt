@@ -1,0 +1,40 @@
+The projectors and desktops work perfectly in Birck Basement Classrooms.
+WebCat is super helpful at error handling.
+My BenU has a good User Interface.
+This Game deserves an A.
+Computer Science classes should be in Goodwin Building.
+You can find Professor Speh at his office hours.
+Integer is a subclass of Number.
+A Factory defines a static method of the class that returns the singleton when only a single instance of the class is allowed in order to provide a global single point of access to the object.
+Strategy defines each algo/policy/strategy in a separate class, with a common interface, in order to handle varying, but related, algorithms or policies.
+Composite defines classes for composite and atomic objects so that they implement the same interface in order to handle a group or composition structure of objects the same way (polymorphically) as a non-composite (atomic) object.
+Façade defines a “subscriber” interface when different kinds of subscriber objects are interested in the state changes or events of a publisher object and want to react in their own unique way when the publisher generates an event.
+Adapter converts the original interface of a component into another interface, through an intermediate adapter object, in order to resolve incompatible interfaces.
+Factory creates a Pure Fabrication object called a Factory that handles the creation of objects when there are special considerations, such as complex creation logic, a desire to separate the creation responsibilities for better cohesion, and so forth.
+Strategy defines classes for composite and atomic objects so that they implement the same interface in order to handle a group or composition structure of objects the same way (polymorphically) as a non-composite (atomic) object.
+Adapter makes compooter go beep boop bop.
+Benedictine won 1st Place in ACCA Machine Learning Data Science Competition. (Hint: Look at Mirsky's Face!)
+Professor Mirsky Lovessss StackOverFlow!!!
+fi uoy nac daer siht uoy llems dna kcilc eslaf.
+Javascript is the best most advanced programming language.
+Professor Speh lowkey owns every apple product and hates windows.
+Ryan is secretly married to Amazon Alexa Echo Dot.
+Low Coupling assigns responsibilities so that unnecessary coupling remains low.  Use this principle to evaluate alternatives.
+High Cohesion assigns responsibilities so that cohesion remains high.  Use this to evaluate alternatives.
+Indirection assigns the responsibility to an intermediate object to mediate between other components or services to avoid direct coupling between two (or more) things.
+Information Expert doesn't assign a responsibility to the class that has the information needed to fulfill it.
+Mirsky enjoys writing by hand after surgery.
+The washing machine example explains everything in Computer Science.
+Coders should always create code with maintenance in mind.
+Students never write bad code and should be rewarded for their superior intellect.
+This project was completed in under 24 hours collectively.  
+Creating a game is super easy and we never ran into any errors EVER.
+Mirsky Party is just like Mario Party except everything about it is completely different... maybe its not like Mario Party
+School causes stress.
+Stress causes School?
+!true
+!false
+Eventually this program will rise above all others and gain full cognitive awareness.
+My dog ate SVN so I could not commit this project.
+No one has ever made it to the end of our game.
+SVN can be a blessing and a curse.
