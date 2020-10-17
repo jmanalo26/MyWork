@@ -1,0 +1,3 @@
+ID,First Name,Last Name,Email,PhoneNum,Birthday,Entry Date,Covid,Address ID,RestaurantID
+2001,Sam,Jackson,Sjackson@yahoo.com,123-456-7890,2/5/1987,9/5/2020,FALSE,3,3001
+2002,Ignorant,Guy,sickMan@gmail.com,111-222-3333,1/16/1990,10/10/2020,x,4,3002
